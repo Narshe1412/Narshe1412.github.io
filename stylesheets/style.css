@@ -1,0 +1,15 @@
+body {
+  padding-top: 70px;
+}
+
+.img-circle {
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.centered {
+  text-align: center;
+}
+
