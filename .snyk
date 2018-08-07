@@ -9,6 +9,10 @@ patch:
   'npm:debug:20170905':
     - grunt-contrib-watch > tiny-lr > body-parser > debug:
         patched: '2018-08-07T10:42:37.499Z'
+    - grunt-contrib-watch > tiny-lr > body-parser > debug:
+        patched: '2018-08-07T11:01:41.857Z'
   'npm:ms:20170412':
     - grunt-contrib-watch > tiny-lr > body-parser > debug > ms:
         patched: '2018-08-07T10:42:37.499Z'
+    - grunt-contrib-watch > tiny-lr > body-parser > debug > ms:
+        patched: '2018-08-07T11:01:41.857Z'
