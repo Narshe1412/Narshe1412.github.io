@@ -21,7 +21,8 @@
   },
   "scripts": {
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "npm run snyk-protect",
+    "deploy": "grunt"
   },
   "snyk": true,
   "dependencies": {
